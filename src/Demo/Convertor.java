@@ -1,3 +1,5 @@
+package Demo;
+
 public class Convertor {
     public String minusculaAMayuscula(String entrada) {
         char[] a = entrada.toCharArray();
